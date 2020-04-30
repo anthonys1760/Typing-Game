@@ -2,7 +2,7 @@
 
 Game to beat the clock by typing random words
 
-![title-pic](typingimage.png)
+![title-pic](responsive.png)
 
  ## Project Specifications
 
@@ -16,7 +16,7 @@ Game to beat the clock by typing random words
 ## Steps to execute this Typing game:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site](https://anthonys1760.github.io/Simple-Calculator/)
+- [View Live Site](https://anthonys1760.github.io/Typing-Game/)
 
 ## Technologies used: 
 - HTML
